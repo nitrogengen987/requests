@@ -1,8 +1,4 @@
 # Документация о библиотеке Requests для собственного пользования
 
-
-
-![](/assets/35163665790_d182d84f5e_k.jpg)
-
-
+![](/assets/requests-sidebar.png)
 
